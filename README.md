@@ -129,7 +129,7 @@ This will open the Streamlit interface in your browser, where you can navigate b
 
 The following bar chart shows the most frequent words mentioned in customer reviews:
 
-![Top Words Visualization](images/Top 10 Frequent Words in Reviews.png)
+![Top Words Visualization](images\Top 10 Frequent Words in Reviews.png)
 
 *Figure 1: Top 10 Words from Customer Reviews*
 
@@ -137,7 +137,7 @@ The following bar chart shows the most frequent words mentioned in customer revi
 
 The pie chart displays the distribution of customer sentiments (Positive, Neutral, Negative):
 
-![Sentiment Distribution](images/Sentiment Distribution.png)
+![Sentiment Distribution](images\Sentiment Distribution.png)
 
 *Figure 2: Customer Sentiment Distribution*
 
@@ -151,24 +151,3 @@ Feel free to contribute! Open issues or make pull requests.
 
 ---
 
-
-## Visualizations
-
-### Top 10 Frequent Words in Reviews
-
-![Top Words Visualization](images//Top 10 Frequent Words in Reviews.png)
-
-This visualization shows the most common words in the customer reviews.
-
-### Sentiment Distribution Analysis
-
-![Sentiment Distribution Analysis](images//Sentiment Distribution.png)
-
-This graph shows the distribution of sentiments (positive, negative, neutral) in the feedback.
-
-
-
-Ensure that the images are relevant and captured from your Streamlit application to visually support the content.
-
---- 
-"# customer_feedback_assistant" 
