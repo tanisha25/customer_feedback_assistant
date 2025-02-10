@@ -132,23 +132,19 @@ This project aims to build a **RAG-enabled assistant** that processes customer f
 - Sentiment analysis to identify positive and negative reviews
 - Insights extraction to identify top frequent words and patterns
 
-## Visualizations
+### Top Words Visualization
+The following bar chart shows the most frequent words mentioned in customer reviews:
 
-### Top 10 Frequent Words in Reviews
+![Top Words Visualization](https://github.com/tanisha25/customer_feedback_assistant/blob/main/images/Top%2010%20Frequent%20Words%20in%20Reviews.png)
 
-![Top Words Visualization](images/Top 10 Frequent Words in Reviews.png)
-
-Figure 1: Top 10 Words from Customer Reviews
-
-This visualization shows the most common words mentioned in the customer reviews.
+**Figure 1:** Top 10 Words from Customer Reviews
 
 ### Sentiment Distribution
+The pie chart displays the distribution of customer sentiments (Positive, Neutral, Negative):
 
-![Sentiment Distribution](images/Sentiment Distribution.png)
+![Sentiment Distribution](https://github.com/tanisha25/customer_feedback_assistant/blob/main/images/Sentiment%20Distribution.png)
 
-Figure 2: Customer Sentiment Distribution
-
-This pie chart displays the distribution of customer sentiments (Positive, Neutral, Negative).
+**Figure 2:** Customer Sentiment Distribution
 
 ## Setup
 
