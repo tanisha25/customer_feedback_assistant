@@ -122,32 +122,37 @@ This will open the Streamlit interface in your browser, where you can navigate b
 - The chatbot will generate insights and actionable recommendations based on the reviews.
 
 ---
+# Customer Feedback Assistant
+
+This project aims to build a **RAG-enabled assistant** that processes customer feedback and provides insights using machine learning models.
+
+## Key Features
+
+- Natural Language Processing for analyzing feedback
+- Sentiment analysis to identify positive and negative reviews
+- Insights extraction to identify top frequent words and patterns
 
 ## Visualizations
 
-### Top Words
+### Top 10 Frequent Words in Reviews
 
-The following bar chart shows the most frequent words mentioned in customer reviews:
+![Top Words Visualization](images/Top 10 Frequent Words in Reviews.png)
 
-![Top Words Visualization](images\Top 10 Frequent Words in Reviews.png)
+Figure 1: Top 10 Words from Customer Reviews
 
-*Figure 1: Top 10 Words from Customer Reviews*
+This visualization shows the most common words mentioned in the customer reviews.
 
 ### Sentiment Distribution
 
-The pie chart displays the distribution of customer sentiments (Positive, Neutral, Negative):
+![Sentiment Distribution](images/Sentiment Distribution.png)
 
-![Sentiment Distribution](images\Sentiment Distribution.png)
+Figure 2: Customer Sentiment Distribution
 
-*Figure 2: Customer Sentiment Distribution*
+This pie chart displays the distribution of customer sentiments (Positive, Neutral, Negative).
 
----
+## Setup
 
-## Contributors
+1. Clone the repository:
 
-- **Tanisha Medewala** - Project Lead and Developer
-
-Feel free to contribute! Open issues or make pull requests.
-
----
-
+   ```bash
+   git clone https://github.com/tanisha25/customer_feedback_assistant.git
