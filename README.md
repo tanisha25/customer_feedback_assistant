@@ -13,6 +13,7 @@ This project is designed to analyze and provide insights into customer feedback 
   - [Preprocessing](#preprocessing)
   - [Word Cloud & Sentiment Analysis](#word-cloud--sentiment-analysis)
   - [Chatbot Insights](#chatbot-insights)
+  - [Architecture and Flow Diagram](#architecture)
 - [Usage](#usage)
 - [Visualizations](#visualizations)
   - [Top Words](#top-words)
@@ -99,6 +100,16 @@ The dataset is preprocessed by cleaning the text (removing special characters an
 
 The chatbot lets users ask questions about the reviews. It retrieves relevant customer feedback based on query embeddings and generates insights using GPT-4.
 
+### Architecture and Flow Diagram
+The diagrams below show architecture and flow diagram
+
+![System Design](https://github.com/tanisha25/customer_feedback_assistant/blob/main/images/Build%20RAG%20Enabled%20Assistant.png)
+
+**Figure 1:** System Design
+
+![AI Flow Design](https://github.com/tanisha25/customer_feedback_assistant/blob/main/images/ai_pipeline_architecture.png)
+
+**Figure 2:** Flow Design
 ---
 
 ## Usage
@@ -137,14 +148,14 @@ The following bar chart shows the most frequent words mentioned in customer revi
 
 ![Top Words Visualization](https://github.com/tanisha25/customer_feedback_assistant/blob/main/images/Top%2010%20Frequent%20Words%20in%20Reviews.png)
 
-**Figure 1:** Top 10 Words from Customer Reviews
+**Figure 3:** Top 10 Words from Customer Reviews
 
 ### Sentiment Distribution
 The pie chart displays the distribution of customer sentiments (Positive, Neutral, Negative):
 
 ![Sentiment Distribution](https://github.com/tanisha25/customer_feedback_assistant/blob/main/images/Sentiment%20Distribution.png)
 
-**Figure 2:** Customer Sentiment Distribution
+**Figure 4:** Customer Sentiment Distribution
 
 ## Setup
 
