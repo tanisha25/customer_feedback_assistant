@@ -3,12 +3,7 @@ import faiss
 import numpy as np
 import pandas as pd
 
-openai.api_key = "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"
-
-import os
-import numpy as np
-import faiss
-import openai
+openai.api_key = "<OPEN_API_KEY>"
 
 INDEX_PATH = "embeddings/vector_store.faiss"
 
