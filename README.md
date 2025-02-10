@@ -106,10 +106,12 @@ The diagrams below show architecture and flow diagram
 ![System Design](https://github.com/tanisha25/customer_feedback_assistant/blob/main/images/Build%20RAG%20Enabled%20Assistant.png)
 
 **Figure 1:** System Design
+---
 
 ![AI Flow Design](https://github.com/tanisha25/customer_feedback_assistant/blob/main/images/ai_pipeline_architecture.png)
 
 **Figure 2:** Flow Design
+
 ---
 
 ## Usage
